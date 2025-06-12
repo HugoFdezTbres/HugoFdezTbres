@@ -12,7 +12,7 @@
 
 <p align="left"> 
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,py,fastapi" />
+    <img src="https://skillicons.dev/icons?i=java,cs,py" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
  ### 👉 Software & Tools
 <p align="left"> 
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman" />
+    <img src="https://skillicons.dev/icons?i=spring,vscode,visualstudio,dotnet,pycharm,fastapi,postman" />
   </a>
 </p>
 
