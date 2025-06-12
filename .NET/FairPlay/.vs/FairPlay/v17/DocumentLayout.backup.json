@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hugo\\Desktop\\DAM\\2\\FAIRPLAY\\FairPlay\\FairPlay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3474B248-93E5-4B2A-AF5F-597B6EAC7A4F}|FairPlay\\FairPlay.csproj|c:\\users\\hugo\\desktop\\dam\\2\\fairplay\\fairplay\\fairplay\\fairplay\\documentacion\\diagramaarquitectura.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3474B248-93E5-4B2A-AF5F-597B6EAC7A4F}|FairPlay\\FairPlay.csproj|solutionrelative:fairplay\\documentacion\\diagramaarquitectura.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474B248-93E5-4B2A-AF5F-597B6EAC7A4F}|FairPlay\\FairPlay.csproj|c:\\users\\hugo\\desktop\\dam\\2\\fairplay\\fairplay\\fairplay\\fairplay\\controllers\\courtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474B248-93E5-4B2A-AF5F-597B6EAC7A4F}|FairPlay\\FairPlay.csproj|solutionrelative:fairplay\\controllers\\courtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474B248-93E5-4B2A-AF5F-597B6EAC7A4F}|FairPlay\\FairPlay.csproj|c:\\users\\hugo\\desktop\\dam\\2\\fairplay\\fairplay\\fairplay\\fairplay\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474B248-93E5-4B2A-AF5F-597B6EAC7A4F}|FairPlay\\FairPlay.csproj|solutionrelative:fairplay\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagramaArquitectura.md",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Desktop\\DAM\\2\\FAIRPLAY\\FairPlay\\FairPlay\\FairPlay\\Documentacion\\DiagramaArquitectura.md",
+              "RelativeDocumentMoniker": "FairPlay\\Documentacion\\DiagramaArquitectura.md",
+              "ToolTip": "C:\\Users\\Hugo\\Desktop\\DAM\\2\\FAIRPLAY\\FairPlay\\FairPlay\\FairPlay\\Documentacion\\DiagramaArquitectura.md",
+              "RelativeToolTip": "FairPlay\\Documentacion\\DiagramaArquitectura.md",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-09T20:28:44.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourtController.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Desktop\\DAM\\2\\FAIRPLAY\\FairPlay\\FairPlay\\FairPlay\\Controllers\\CourtController.cs",
+              "RelativeDocumentMoniker": "FairPlay\\Controllers\\CourtController.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Desktop\\DAM\\2\\FAIRPLAY\\FairPlay\\FairPlay\\FairPlay\\Controllers\\CourtController.cs",
+              "RelativeToolTip": "FairPlay\\Controllers\\CourtController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:27:49.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Desktop\\DAM\\2\\FAIRPLAY\\FairPlay\\FairPlay\\FairPlay\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FairPlay\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Desktop\\DAM\\2\\FAIRPLAY\\FairPlay\\FairPlay\\FairPlay\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FairPlay\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:09:08.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

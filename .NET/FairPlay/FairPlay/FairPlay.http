@@ -1,0 +1,6 @@
+@FairPlay_HostAddress = http://localhost:5151
+
+GET {{FairPlay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
